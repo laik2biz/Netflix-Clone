@@ -1,3 +1,3 @@
 # Netflix-Clone
 
-Creating a Netflix Clone project using React.js for class.
+Creating a Netflix Clone project with React.js. Connected TMDB API to the frontend.
